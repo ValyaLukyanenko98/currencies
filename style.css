@@ -1,0 +1,29 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 20px;
+}
+
+div{
+    position: relative;
+    margin-left: 35%;
+}
+h1{
+    margin: 0;
+    padding: 15px;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 10px; 
+}
+table {
+    font-size: 14px;
+    border-collapse: collapse;
+    text-align: left;
+}
+
+td {
+    border: solid 1px black;
+    background-color:  #dbdbdb;
+    padding: 15px;
+}
